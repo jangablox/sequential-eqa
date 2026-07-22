@@ -1,0 +1,12 @@
+external/*
+!external/.gitkeep
+outputs/
+datasets/
+tests/
+checkpoints/
+.cache/
+__pycache__/
+*.py[cod]
+*.log
+.env
+

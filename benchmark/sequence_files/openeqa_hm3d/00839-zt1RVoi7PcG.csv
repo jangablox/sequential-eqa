@@ -1,0 +1,15 @@
+question_id,scene,floor,question,answer
+00839-zt1RVoi7PcG:q001,00839-zt1RVoi7PcG,0,What is the object inside the pet cage?,A teddy bear
+00839-zt1RVoi7PcG:q002,00839-zt1RVoi7PcG,0,"Theres something on the ceiling of the living room, what is it?",None
+00839-zt1RVoi7PcG:q003,00839-zt1RVoi7PcG,0,Which color is the dinning table?,Brown
+00839-zt1RVoi7PcG:q004,00839-zt1RVoi7PcG,0,Which color is the wall behind the desk with the computer?,Blue
+00839-zt1RVoi7PcG:q005,00839-zt1RVoi7PcG,0,"Go to the living room, step close in front of the TV
+00839-zt1RVoi7PcG,0,There's something on the wall between the pet cage and the chimney","what is it?"""
+00839-zt1RVoi7PcG:q006,00839-zt1RVoi7PcG,0,Is the TV on or off?,Off
+00839-zt1RVoi7PcG:q007,00839-zt1RVoi7PcG,0,Is the light on the staircase on or off?,On
+00839-zt1RVoi7PcG:q008,00839-zt1RVoi7PcG,0,Is there a place where I can leave my pet? If so where is it?,"Yes
+00839-zt1RVoi7PcG,0,Is there a room to work? If so which room is it?,Yes"
+00839-zt1RVoi7PcG:q009,00839-zt1RVoi7PcG,0,"Theres a frame about a video game above the brown couch on the top floor, which video game is it?",None
+00839-zt1RVoi7PcG:q010,00839-zt1RVoi7PcG,0,"There are ornaments about a festivity near the chimney, about which festivity are they?",None
+00839-zt1RVoi7PcG:q011,00839-zt1RVoi7PcG,0,Which room is the pet cage closest to?,Living room
+00839-zt1RVoi7PcG:q012,00839-zt1RVoi7PcG,0,Which room is the TV in?,Living room

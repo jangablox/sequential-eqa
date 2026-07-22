@@ -1,0 +1,13 @@
+name: memoryeqa
+repository: ${MEMORYEQA_REPOSITORY:-external/MemoryEQA}
+conda_env: sequential-eqa-memoryeqa
+checkpoint: $MEMORYEQA_CHECKPOINT
+output_root: outputs
+parameters:
+  native_config: cfg/vlm_exp_ov.yaml
+  gpu: 0
+  hm3d_data: $HM3D_DATA_ROOT
+  initial_poses: $HM3D_INITIAL_POSES
+  memory_capacity: 0
+  preserve_hierarchical_memory: true
+  fail_fast: true

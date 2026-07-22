@@ -1,0 +1,18 @@
+# Setup scripts pull the current default branch. `resolved_commit` records the
+# revision inspected while this adapter release was developed.
+exploreeqa:
+  url: https://github.com/Stanford-ILIAD/explore-eqa.git
+  branch: master
+  resolved_commit: 18381da3370c5f7729594f10ebc49b5644bbb88c
+3D-Mem:
+  url: https://github.com/UMass-Embodied-AGI/3D-Mem.git
+  branch: main
+  resolved_commit: f445e0828a2c5d5845ccdbd0992fc5eed871d19a
+uninavid:
+  url: https://github.com/jzhzhang/Uni-NaVid.git
+  branch: main
+  resolved_commit: 79ef5ea3fea14c205342d1ab070563d84c7a966a
+memoryeqa:
+  url: https://github.com/memory-eqa/MemoryEQA.git
+  branch: main
+  resolved_commit: a65d4b6986c33cae653275659b9992b57c03fb8a

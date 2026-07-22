@@ -1,0 +1,7 @@
+numpy>=1.24
+PyYAML>=6.0
+# Optional grading environment dependencies:
+# torch
+# transformers>=4.56
+# accelerate
+

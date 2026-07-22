@@ -1,0 +1,18 @@
+name: uninavid
+repository: ${UNINAVID_REPOSITORY:-external/Uni-NaVid}
+conda_env: sequential-eqa-uninavid
+checkpoint: $UNINAVID_CHECKPOINT
+output_root: outputs
+parameters:
+  hm3d_data: $HM3D_DATA_ROOT
+  initial_poses: $HM3D_INITIAL_POSES
+  observation_history_length: 0
+  max_episode_steps: 2000
+  preserve_visual_context: true
+  camera_height: 1.5
+  width: 640
+  height: 480
+  hfov: 120
+  forward_step: 0.25
+  turn_angle: 30
+  fail_fast: true

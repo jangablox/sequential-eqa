@@ -1,0 +1,12 @@
+name: 3D-Mem
+repository: ${THREE_D_MEM_REPOSITORY:-external/3D-Mem}
+conda_env: sequential-eqa-3d-mem
+checkpoint: $THREE_D_MEM_CHECKPOINT
+output_root: outputs
+parameters:
+  native_config: cfg/eval_aeqa.yaml
+  hm3d_data: $HM3D_DATA_ROOT
+  initial_poses: $HM3D_INITIAL_POSES
+  preserve_reconstruction: true
+  save_visualization: false
+  fail_fast: true

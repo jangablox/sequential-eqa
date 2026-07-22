@@ -1,0 +1,7 @@
+question_id,scene,floor,question,answer
+00890-6s7QHgap2fW:q001,00890-6s7QHgap2fW,0,what color is the flower in the bottom floor?,pink
+00890-6s7QHgap2fW:q002,00890-6s7QHgap2fW,0,what color is the chair?,black
+00890-6s7QHgap2fW:q003,00890-6s7QHgap2fW,0,is the chair in the above floor pushed in or placed out?,pushed in
+00890-6s7QHgap2fW:q004,00890-6s7QHgap2fW,0,is the door of the above room infront of the staircase open or closed?,open
+00890-6s7QHgap2fW:q005,00890-6s7QHgap2fW,0,is the table in the above room infront of the staircase clean ?,yes
+00890-6s7QHgap2fW:q006,00890-6s7QHgap2fW,0,how do I go down from the above floor to the below floor?,use the staircase

@@ -1,0 +1,15 @@
+question_id,scene,floor,question,answer
+00846-LNg5mXe1BDj:q001,00846-LNg5mXe1BDj,0,"What is the object in the TV room, at the right of the couch?",None
+00846-LNg5mXe1BDj:q002,00846-LNg5mXe1BDj,0,What is the flue object on the floor near the toilet?,A trash can
+00846-LNg5mXe1BDj:q003,00846-LNg5mXe1BDj,0,What material are most of the cabinets of the kitchen made of?,Wood
+00846-LNg5mXe1BDj:q004,00846-LNg5mXe1BDj,0,Which color is the clock on the wall of the kitchen?,White
+00846-LNg5mXe1BDj:q005,00846-LNg5mXe1BDj,0,What is the object between the Stationary Bike and the Table with the Lamp?,An armchair
+00846-LNg5mXe1BDj:q006,00846-LNg5mXe1BDj,0,"If you were to go down the stairs, then straight into the tv room
+00846-LNg5mXe1BDj,0,Is the door of the restroom open or closed?,Open
+00846-LNg5mXe1BDj,0,Is the TV on or off,Off
+00846-LNg5mXe1BDj,0,I go to the TV room","which object can I use to exercise?"""
+00846-LNg5mXe1BDj:q007,00846-LNg5mXe1BDj,0,"There is an object to tell the time in this scene, in which room is it?",None
+00846-LNg5mXe1BDj:q008,00846-LNg5mXe1BDj,0,"If you go to the restroom there are ornaments and frames about one sport, which sport is it?",None
+00846-LNg5mXe1BDj:q009,00846-LNg5mXe1BDj,0,About which baseball team is the frame on the restroom?,The Minnesota Twins
+00846-LNg5mXe1BDj:q010,00846-LNg5mXe1BDj,0,In which room is the frame about the minesota twins?,In the restroom
+00846-LNg5mXe1BDj:q011,00846-LNg5mXe1BDj,0,In which room is the stationary bike?,In the TV room

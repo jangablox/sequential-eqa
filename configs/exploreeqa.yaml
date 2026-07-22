@@ -1,0 +1,12 @@
+name: exploreeqa
+repository: ${EXPLOREEQA_REPOSITORY:-external/explore-eqa}
+conda_env: sequential-eqa-exploreeqa
+checkpoint: $EXPLOREEQA_CHECKPOINT
+output_root: outputs
+parameters:
+  native_config: cfg/vlm_exp.yaml
+  hm3d_data: $HM3D_DATA_ROOT
+  initial_poses: $HM3D_INITIAL_POSES
+  max_navigation_steps: 500
+  preserve_geometric_memory: true
+  fail_fast: true

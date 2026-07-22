@@ -1,0 +1,325 @@
+{
+  "benchmark": "Sequential-EQA Open-EQA HM3D",
+  "format_version": 1,
+  "created_utc": "2026-07-21T02:40:50.068932+00:00",
+  "source_dataset": "Open-EQA HM3D canonical paper artifact",
+  "source_version": "unavailable",
+  "ordering": "source_row_order",
+  "seed": null,
+  "settings": {
+    "minimum_sequence_length": 1,
+    "drop_duplicates": false
+  },
+  "counts": {
+    "scenes": 50,
+    "questions": 498
+  },
+  "rejected": {
+    "missing_required": 0,
+    "unsupported_scene": 0,
+    "excluded_scene": 0,
+    "duplicate": 0
+  },
+  "files": [
+    {
+      "path": "00801-HaxA7YrQdEC.csv",
+      "scene_id": "00801-HaxA7YrQdEC",
+      "questions": 8,
+      "sha256": "6d2a65bd3f71143a4cbccc21139299549a83ca06127f7d96a0386444444b6eea"
+    },
+    {
+      "path": "00802-wcojb4TFT35.csv",
+      "scene_id": "00802-wcojb4TFT35",
+      "questions": 13,
+      "sha256": "6d7555015be8cca5cd19e4682877ec87377ab7483829c320074f6388f8096cc4"
+    },
+    {
+      "path": "00805-SUHsP6z2gcJ.csv",
+      "scene_id": "00805-SUHsP6z2gcJ",
+      "questions": 13,
+      "sha256": "fb3342445c7351eb4fee32993b8cce8be093bba3a9ea58d1c06976972bbe2ba8"
+    },
+    {
+      "path": "00806-tQ5s4ShP627.csv",
+      "scene_id": "00806-tQ5s4ShP627",
+      "questions": 6,
+      "sha256": "228a68e258c2c6a1e362ef2fec9e22bf52c267a93e9a15dfea41b46ef6ad7cee"
+    },
+    {
+      "path": "00807-rsggHU7g7dh.csv",
+      "scene_id": "00807-rsggHU7g7dh",
+      "questions": 12,
+      "sha256": "97bd5c41e00d2a7654c21c6350f296089ada83190062fa5f7c24016158896517"
+    },
+    {
+      "path": "00808-y9hTuugGdiq.csv",
+      "scene_id": "00808-y9hTuugGdiq",
+      "questions": 12,
+      "sha256": "f9f20111334e95353101ee016f1c9be8ae5ba5f0554a961b9ae14d6df5426abd"
+    },
+    {
+      "path": "00809-Qpor2mEya8F.csv",
+      "scene_id": "00809-Qpor2mEya8F",
+      "questions": 12,
+      "sha256": "ac3339e81e83752e11004d0727508eec8d38a59e5decd5a196a1b65bfeee02c1"
+    },
+    {
+      "path": "00813-svBbv1Pavdk.csv",
+      "scene_id": "00813-svBbv1Pavdk",
+      "questions": 13,
+      "sha256": "ed6b3167e2ef5bb9383bc3a8616eaa2dac22639c3a753b9c6df9b40541032517"
+    },
+    {
+      "path": "00814-p53SfW6mjZe.csv",
+      "scene_id": "00814-p53SfW6mjZe",
+      "questions": 11,
+      "sha256": "13064decbe3843164a2ba3d7048cdecd9bda5f4fa5446fe4f2603104d5898c91"
+    },
+    {
+      "path": "00816-q3hn1WQ12rz.csv",
+      "scene_id": "00816-q3hn1WQ12rz",
+      "questions": 10,
+      "sha256": "790ac494ac3da4e4ba8486deb8facac7182e68c8ef6381cd6d19002b14e165cb"
+    },
+    {
+      "path": "00817-X4qjx5vquwH.csv",
+      "scene_id": "00817-X4qjx5vquwH",
+      "questions": 12,
+      "sha256": "55e6952fae83830660f896301e4d8cb026f249cf49d09de33a1b1d320be009ec"
+    },
+    {
+      "path": "00818-rJhMRvNn4DS.csv",
+      "scene_id": "00818-rJhMRvNn4DS",
+      "questions": 12,
+      "sha256": "2c23eb9502864de2ee60f6968bdf0bd4290f062930d45ff5d76fc4b3e8cdb085"
+    },
+    {
+      "path": "00821-eF36g7L6Z9M.csv",
+      "scene_id": "00821-eF36g7L6Z9M",
+      "questions": 12,
+      "sha256": "a14931e0747ae09e6e2a87908abb157e2d4d0f199d043b06882b056865751082"
+    },
+    {
+      "path": "00822-nrA1tAA17Yp.csv",
+      "scene_id": "00822-nrA1tAA17Yp",
+      "questions": 12,
+      "sha256": "2895c352e5532982775dfaaae81e79265a265bf83acc0f71b61935e0482adb2f"
+    },
+    {
+      "path": "00823-7MXmsvcQjpJ.csv",
+      "scene_id": "00823-7MXmsvcQjpJ",
+      "questions": 6,
+      "sha256": "1da5fc26589f50088647e67d62134ddcc3c03103d618e7823de5abcd61763518"
+    },
+    {
+      "path": "00824-Dd4bFSTQ8gi.csv",
+      "scene_id": "00824-Dd4bFSTQ8gi",
+      "questions": 1,
+      "sha256": "a629623c271ddfe72db9d1cc082b2872d8f9a5f3fe7fc65e1ebc336bb04ca9e8"
+    },
+    {
+      "path": "00826-BFRyYbPCCPE.csv",
+      "scene_id": "00826-BFRyYbPCCPE",
+      "questions": 10,
+      "sha256": "4cb6a25f7975b6c6fbd00c8091ed05233498996c7122aff840c039bdb7c2c233"
+    },
+    {
+      "path": "00827-BAbdmeyTvMZ.csv",
+      "scene_id": "00827-BAbdmeyTvMZ",
+      "questions": 8,
+      "sha256": "97d920c8e8c439870a502d49599826f2a735fb4bbcead5ed9dcbc49c552cf9bb"
+    },
+    {
+      "path": "00830-5jp3fCRSRjc.csv",
+      "scene_id": "00830-5jp3fCRSRjc",
+      "questions": 12,
+      "sha256": "cfcb0420533b6d3f7921b55638d6d75be3fe948ada0d0150e9e6304faa644c9d"
+    },
+    {
+      "path": "00833-dHwjuKfkRUR.csv",
+      "scene_id": "00833-dHwjuKfkRUR",
+      "questions": 11,
+      "sha256": "4aa77e6347945d22821b4c708e7d2ad87c0e68cc0920aab7a5b43b2bae8f706d"
+    },
+    {
+      "path": "00838-kJJyRFXVpx2.csv",
+      "scene_id": "00838-kJJyRFXVpx2",
+      "questions": 13,
+      "sha256": "fd722cbe50a7955594752f0c3ccb90663431d24c16f212397099786bd35c5b76"
+    },
+    {
+      "path": "00839-zt1RVoi7PcG.csv",
+      "scene_id": "00839-zt1RVoi7PcG",
+      "questions": 12,
+      "sha256": "d1a3790ababe8060832493716aa54ff25f210ca47af9bb057cbbb0b6aa8ffd13"
+    },
+    {
+      "path": "00842-hkr2MGpHD6B.csv",
+      "scene_id": "00842-hkr2MGpHD6B",
+      "questions": 8,
+      "sha256": "e1f51d60de6a27e69b2c811e6f9dc0b8ce1c9815a5a7bf65ac1b72cdeacf2595"
+    },
+    {
+      "path": "00844-q5QZSEeHe5g.csv",
+      "scene_id": "00844-q5QZSEeHe5g",
+      "questions": 12,
+      "sha256": "ecdef883054456c3a18a90d3b276ac594a1e7b268f9588927eba290db612deb2"
+    },
+    {
+      "path": "00846-LNg5mXe1BDj.csv",
+      "scene_id": "00846-LNg5mXe1BDj",
+      "questions": 11,
+      "sha256": "3fc54698fd0962e6aa9c2837adcbe3a64e19d5d0130477e579bd2d82a98d2a50"
+    },
+    {
+      "path": "00849-a8BtkwhxdRV.csv",
+      "scene_id": "00849-a8BtkwhxdRV",
+      "questions": 6,
+      "sha256": "ac818d058271ec4153932fed3f1fedef4441dab4a81f0cf1e0e5cf601dd3c5c1"
+    },
+    {
+      "path": "00853-5cdEh9F2hJL.csv",
+      "scene_id": "00853-5cdEh9F2hJL",
+      "questions": 13,
+      "sha256": "ee712d4f30d61e390309d53be5e0d509538e05b72c26b993e0de16b2f9948d60"
+    },
+    {
+      "path": "00854-SiKqEZx7Ejt.csv",
+      "scene_id": "00854-SiKqEZx7Ejt",
+      "questions": 11,
+      "sha256": "256280bb974d53db309a6dd7d7ce67854a4fb95c88b40faf65023d9e0302e538"
+    },
+    {
+      "path": "00855-c5eTyR3Rxyh.csv",
+      "scene_id": "00855-c5eTyR3Rxyh",
+      "questions": 12,
+      "sha256": "b1106feaac3e4816c7e1afc613b3271de160b8dcb31c3391029eb180663b9c69"
+    },
+    {
+      "path": "00856-FnSn2KSrALj.csv",
+      "scene_id": "00856-FnSn2KSrALj",
+      "questions": 9,
+      "sha256": "1218f09e5f7ffcb651a73cf34461c649293720402223d44f026d31eee9cb8391"
+    },
+    {
+      "path": "00858-cYkrGrCg2kB.csv",
+      "scene_id": "00858-cYkrGrCg2kB",
+      "questions": 7,
+      "sha256": "ffba6ead281331a7f1600e062b21df40a0a97acbf1e61c4a561515cf73412029"
+    },
+    {
+      "path": "00861-GLAQ4DNUx5U.csv",
+      "scene_id": "00861-GLAQ4DNUx5U",
+      "questions": 11,
+      "sha256": "096514d0fc9e713ec013884f71513fd1cc7473abfea34c6df7401f5f0154cf59"
+    },
+    {
+      "path": "00862-LT9Jq6dN3Ea.csv",
+      "scene_id": "00862-LT9Jq6dN3Ea",
+      "questions": 12,
+      "sha256": "a484782a51bb16279d3f9198cc97c58e2d616ca890cb51f35cc646a723e32223"
+    },
+    {
+      "path": "00863-b28CWbpQvor.csv",
+      "scene_id": "00863-b28CWbpQvor",
+      "questions": 9,
+      "sha256": "e75f92c7e81f1daced11b697ec640e989ec9249cde36e59d3accf1b55da6e92f"
+    },
+    {
+      "path": "00867-uLz9jNga3kC.csv",
+      "scene_id": "00867-uLz9jNga3kC",
+      "questions": 11,
+      "sha256": "e74e92ccfa85aa404d85a19f27a188326bb28d5efe305503c54eab66576c7a14"
+    },
+    {
+      "path": "00868-vd3HHTEpmyA.csv",
+      "scene_id": "00868-vd3HHTEpmyA",
+      "questions": 11,
+      "sha256": "2f955c575937c126ca2604659f98cc95d015edfcc59264fcaedf5da747c95445"
+    },
+    {
+      "path": "00870-AYpsNQsWncn.csv",
+      "scene_id": "00870-AYpsNQsWncn",
+      "questions": 1,
+      "sha256": "3d17f8739fba2ae5e25697fce19469f0faeeb9104dbab278c2289370997fb70b"
+    },
+    {
+      "path": "00871-VBzV5z6i1WS.csv",
+      "scene_id": "00871-VBzV5z6i1WS",
+      "questions": 6,
+      "sha256": "563a1af79fe1e52dffe020deac3148a33bf4136c3ed32f73af6ed7ed551c2aab"
+    },
+    {
+      "path": "00873-bxsVRursffK.csv",
+      "scene_id": "00873-bxsVRursffK",
+      "questions": 9,
+      "sha256": "35d01b8e7e83d74db78f053772782b4b216dccc297bba7f24e1f4c2353a504f0"
+    },
+    {
+      "path": "00875-66seV3BWPoX.csv",
+      "scene_id": "00875-66seV3BWPoX",
+      "questions": 11,
+      "sha256": "ed85fad8fe897e34f9c8b42764121bfc7bc5530ba44c5d1fe8aae84e3d553af7"
+    },
+    {
+      "path": "00876-mv2HUxq3B53.csv",
+      "scene_id": "00876-mv2HUxq3B53",
+      "questions": 10,
+      "sha256": "db345a033de274f817fbcdbb738c1724d964a5f4d1cd2a4756622f69bbf3246e"
+    },
+    {
+      "path": "00878-XB4GS9ShBRE.csv",
+      "scene_id": "00878-XB4GS9ShBRE",
+      "questions": 12,
+      "sha256": "150ebf23c35c8651eaae2f475f277de2d233db94bdc7128d4205ff8ad93b35a8"
+    },
+    {
+      "path": "00880-Nfvxx8J5NCo.csv",
+      "scene_id": "00880-Nfvxx8J5NCo",
+      "questions": 13,
+      "sha256": "7f5201402b70a517c550f1b8ecad277071d8231615a2248a6b17657e512bb54b"
+    },
+    {
+      "path": "00886-TPhiubUHKcP.csv",
+      "scene_id": "00886-TPhiubUHKcP",
+      "questions": 1,
+      "sha256": "12185020f0d044b398e1bde72f586f6e52ed17ccd5ff3ca35f94106d797b4007"
+    },
+    {
+      "path": "00889-HMkoS756sz6.csv",
+      "scene_id": "00889-HMkoS756sz6",
+      "questions": 13,
+      "sha256": "7f9a76decd40a48ac9f68c771a835cc81b3541b3fff8353256b4a40f103bd15a"
+    },
+    {
+      "path": "00890-6s7QHgap2fW.csv",
+      "scene_id": "00890-6s7QHgap2fW",
+      "questions": 6,
+      "sha256": "d94f514a22c3f34afef3aa93d6b643b4ccfdaef4c2aff4aedef80bf43b83774d"
+    },
+    {
+      "path": "00891-cvZr5TUy5C5.csv",
+      "scene_id": "00891-cvZr5TUy5C5",
+      "questions": 11,
+      "sha256": "56c23fe8d02950bac3f90dd3484bb2cad6ee506d01a577534f0c904cff8b20ae"
+    },
+    {
+      "path": "00892-bzCsHPLDztK.csv",
+      "scene_id": "00892-bzCsHPLDztK",
+      "questions": 10,
+      "sha256": "6496a2b4d2427054129580162745f7a9b398f0310353168e759af9bd22e756c2"
+    },
+    {
+      "path": "00893-yZME6UR9dUN.csv",
+      "scene_id": "00893-yZME6UR9dUN",
+      "questions": 11,
+      "sha256": "5ab5df30e291dc407f413818a88044480919184df2db3f6984cf50ea239dcfff"
+    },
+    {
+      "path": "00897-LEFTm3JecaC.csv",
+      "scene_id": "00897-LEFTm3JecaC",
+      "questions": 10,
+      "sha256": "3ac0620e89d50437ef5f525861314835ce1dabd7a68d4831d361ca9cd0d314f9"
+    }
+  ]
+}
