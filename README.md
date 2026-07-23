@@ -7,7 +7,6 @@
 [![Benchmark](https://img.shields.io/badge/Benchmark-Sequential--EQA-4d5eff?style=for-the-badge)](#benchmark)
 [![Code](https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white)](#quick-start)
 [![Paper](https://img.shields.io/badge/Paper-IROS%202026-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](iros26_camera_ready_beyond_episodic_1.pdf)
-[![Models](https://img.shields.io/badge/Agents-4-2b9348?style=for-the-badge)](#supported-agents)
 
 </div>
 
